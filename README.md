@@ -15,32 +15,6 @@ A modern and responsive **Random Quote Generator** built using **React.js** and 
 
 ---
 
-## 📸 Preview
-
-### Home Page
-
-<img src="./src/assets/homepage.png" width="850">
-
----
-
-### Search Quotes
-
-<img src="./src/assets/search.png" width="850">
-
----
-
-### Category Filter
-
-<img src="./src/assets/category.png" width="850">
-
----
-
-### No Results Found
-
-<img src="./src/assets/no-results.png" width="850">
-
----
-
 ## 🛠️ Tech Stack
 
 - React.js
